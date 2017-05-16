@@ -30,15 +30,7 @@ if (lastname == "" || lastname.length == 0 ){
 }
 
 }
-/*
 
-if (name.value == null || name.value.length == 0 
- +		|| name.value.charAt(0) !== name.value.charAt(0).toUpperCase()){
- +			var inputNombre = document.getElementsByClassName("input-box")[0];
- +			var noNombre = document.createElement("span");
- +			var textoNombre = document.createTextNode("El Nombre no es válido");
- +			noNombre.appendChild(textoNombre);
- +			inputNombre.appendChild(noNombre);
 
 
 
